@@ -1,8 +1,0 @@
-{
-  "server": "119.28.45.113",
-  "server_port": 8388,
-  "password": "2171613",
-  "method": "aes-256-cfb",
-  "remarks": "tx-hk",
-  "timeout": 5
-}
