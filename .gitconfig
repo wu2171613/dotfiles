@@ -1,0 +1,7 @@
+[http]
+	proxy = 'socks5://127.0.0.1:1080'
+[https]
+	proxy = 'socks5://127.0.0.1:1080'
+[user]
+	email = wu2171613@gmail.com
+	name = wu2171613
